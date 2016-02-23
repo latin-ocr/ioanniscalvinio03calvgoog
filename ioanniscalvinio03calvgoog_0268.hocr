@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio03calvgoog/ioanniscalvinio03calvgoog_0268.png"; bbox 0 0 5550 6792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 481 1720 2229 2368">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 481 1720 2229 2368">
+     <span class='ocr_line' id='line_1_1' title="bbox 792 1720 1931 1889; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 792 1720 1931 1889; x_wconf 82' lang='lat' dir='ltr'><strong>SUPPLEMENTUM.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 481 2198 2229 2368; baseline -0.002 -1"><span class='ocrx_word' id='word_1_2' title='bbox 481 2199 931 2368; x_wconf 80' lang='lat' dir='ltr'><strong>INDICES</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 997 2200 1121 2366; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1189 2199 1564 2366; x_wconf 81' lang='lat' dir='ltr'>TOMOS</span> <span class='ocrx_word' id='word_1_5' title='bbox 1632 2198 2229 2368; x_wconf 86' lang='lat' dir='ltr'>XXIII-LIX.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 562 2677 2160 2931">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 562 2677 2160 2931">
+     <span class='ocr_line' id='line_1_3' title="bbox 562 2677 2160 2931; baseline -0.002 -83"><span class='ocrx_word' id='word_1_6' title='bbox 562 2679 1134 2851; x_wconf 75' lang='lat' dir='ltr'><strong>CATALOGI</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1200 2677 2160 2931; x_wconf 74' lang='lat' dir='ltr'>BfflffloGRAPffloJ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2780 6788">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2780 6788">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2780 6788; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2780 6788; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
